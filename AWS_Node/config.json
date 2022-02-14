@@ -1,0 +1,15 @@
+{
+    "client_id":"1000.TL4Q7FMCNIZZTE5YCBATLQS04DFPJD",
+    "client_secret":"9ce5bb936c113bf4060a0737e385b43505759e6f34",
+    "redirect_uri":"http://www.zoho.com/subscriptions",
+    "tokenBaseURL":"https://accounts.zoho.com/oauth/v2/token?",
+    "scope":"ZohoSubscriptions.fullaccess.all",
+    "response_type":"code",
+    "grant_type": "authorization_code",
+    "subscriptionBaseUrl" : "https://subscriptions.zoho.com/api/v1/subscriptions/",
+    "BaseUrl" : "https://subscriptions.zoho.com/api/v1/",
+    "hostedPageUrl" : "https://subscriptions.zoho.com/api/v1/hostedpages/",
+    "plaftformURL" : "https://gowtham.localzohoplatform2.com/crm/v2/settings/subscription/", 
+    "zapiKey" : "?zapikey=1003.d67e35aa6dd78839f31132b1122ae2f9.2a3d9a60ec87fb22f22da459f6fb07d7"
+
+}

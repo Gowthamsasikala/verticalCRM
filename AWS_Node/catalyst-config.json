@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "vertical_new",
+		"stack": "node14",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "app.js"
+	}
+}
